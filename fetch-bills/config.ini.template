@@ -1,0 +1,17 @@
+[GENERAL]
+DOWNLOAD_PATH="/tmp"
+
+[HVV]
+HVV_LOGIN_USER="xxx"
+HVV_LOGIN_PW="xxx"
+
+[BAHN]
+BAHN_LOGIN_USER="xxx"
+BAHN_LOGIN_PW="xxx"
+
+[WEBDAV]
+WEBDAV_UPLOAD="<true/false>"
+WEBDAV_UPLOAD_PATH="someDirectory/someOtherDirctory/"
+WEBDAV_UPLOAD_URL="https://my-domain.com/remote.php/webdav/"
+WEBDAV_UPLOAD_USER="xxx"
+WEBDAV_UPLOAD_PW="xxx"
